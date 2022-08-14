@@ -15,7 +15,7 @@ the system flow:
 <img src="readme_images/flow.jpeg">     
 
 
-<h3> Client side</h3>
+### Client side
 The client gather the required information from the user:
 <ul>
   <li>Birthdate</li>
@@ -28,7 +28,7 @@ If the user clicks on one of the apps, all the app’s (extended) information di
 
 
 
-<h3> Server side</h3>
+### Server side
 Once the data from the client is received on the server, the server should filter all the irrelevant
 apps (based on the user data), and then randomly choose 3 apps from the remaining apps.
 The filters are:<ul>
@@ -55,14 +55,14 @@ Project is created with:
 ## Setup
 To run this project, install it locally using npm:
 
-for the client side:
-	* $ cd ../client
-	* $ npm install
-	* $ npm start
+* for the client side:
+	$ cd ../client
+	$ npm install
+	$ npm start
 
-for the server side:
-	* $ cd ../server
-	* $ node server.js
+* for the server side:
+	$ cd ../server
+	$ node server.js
 
 
 
