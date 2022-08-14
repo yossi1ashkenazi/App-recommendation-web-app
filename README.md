@@ -26,9 +26,6 @@ Once all the data is entered by the user, it send to the server in order to get 
 Once the server response is received, the apps should be displayed to the user.
 If the user clicks on one of the apps, all the app’s (extended) information displayed (React HOOK).
 
-<img src="readme_images/main_menu.jpeg">     
-
-<img src="readme_images/result_menu.jpeg">     
 
 
 <h3> Server side</h3>
@@ -44,6 +41,10 @@ min ranking set by the user.</li>
 </ul>
 
 
+<img src="readme_images/main_menu.jpeg">     
+
+<img src="readme_images/result_menu.jpeg">     
+
 
 
 ## Technologies
@@ -55,13 +56,13 @@ Project is created with:
 To run this project, install it locally using npm:
 
 for the client side:
-	$ cd ../client
-	$ npm install
-	$ npm start
+	* $ cd ../client
+	* $ npm install
+	* $ npm start
 
 for the server side:
-	$ cd ../server
-	$ node server.js
+	* $ cd ../server
+	* $ node server.js
 
 
 
