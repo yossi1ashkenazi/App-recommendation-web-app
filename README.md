@@ -1,5 +1,4 @@
-"# App-recommendation-web-app" 
-
+# App-recommendation-web-app
 
 ## Best Apps for YOU!
 
@@ -12,7 +11,8 @@ The client will send the information to the server, which will filter from the l
 The client must show the selected applications to the user.
 
 the system flow:
-<img src="flow/main_menu.jpeg">     
+
+<img src="readme_images/flow.jpeg">     
 
 
 <h3> Client side</h3>
@@ -44,15 +44,6 @@ min ranking set by the user.</li>
 </ul>
 
 
-
-<h3>Main menu</h3>
-The first menu that pop when you open the application, Some of them will open submenus when selected, I will explain about those submenus later.
-<ul>
-  <li>Your birhday</li>
-  <li>3 categories</li>
-  <li>Raiting apps (1-5)</li>
-</ul>
-<img src="readme_images/main_menu.jpeg">    
 
 
 ## Technologies
