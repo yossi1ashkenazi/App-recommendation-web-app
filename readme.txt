@@ -61,13 +61,13 @@ Project is created with:
 To run this project, install it locally using npm:
 
 for the client side:
-	$ cd ../client
-	$ npm install
-	$ npm start
+	* $ cd ../client
+	* $ npm install
+	* $ npm start
 
 for the server side:
-	$ cd ../server
-	$ node server.js
+	* $ cd ../server
+	* $ node server.js
 
 
 
