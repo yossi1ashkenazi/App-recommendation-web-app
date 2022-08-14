@@ -52,7 +52,7 @@ The first menu that pop when you open the application, Some of them will open su
   <li>3 categories</li>
   <li>Raiting apps (1-5)</li>
 </ul>
-<img src="readme_images/main_menu.jpeg">     // לשנות את זה
+<img src="readme_images/main_menu.jpeg">    
 
 
 ## Technologies
