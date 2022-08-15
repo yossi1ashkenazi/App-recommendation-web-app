@@ -2,7 +2,7 @@
 
 ## Best Apps for YOU!
 
-A personal project I created
+A personal project I created.
 This project is a web-recommendation app that will return the most relevant applications based on the user’s specific request.
 the system is written and build using ReactJs and node.JS technologies.
 
