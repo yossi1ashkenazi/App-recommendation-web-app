@@ -13,7 +13,7 @@ the system flow:
 
 
 <h3> Client side</h3>
-The client gather the required information from the user:
+The client gather the required information from the user :
 <ul>
   <li>Birthdate</li>
   <li>3 Preferred categories</li>
