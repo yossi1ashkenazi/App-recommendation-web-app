@@ -3,7 +3,7 @@
 ## Best Apps for YOU!
 
 A personal project I created.
-This project is a web-recommendation app that will return the most relevant applications based on the user’s specific request .
+This project is a web-recommendation app that will return the most relevant applications based on the user’s specific request  .
 the system is written and build using ReactJs and node.JS technologies.
 
 The user to enter his date of birth, the minimum required app rating as well as choose from a list of categories 3 that interest him.
